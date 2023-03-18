@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sebastiaan-Gouman
 - 👀 I’m interested in coding, cyber security and more!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything you like
 - 📫 You can reach me at https://www.linkedin.com/in/sebastiaan-gouman/
 
